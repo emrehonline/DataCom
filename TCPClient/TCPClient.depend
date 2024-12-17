@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1733767054 source:e:\berksu\tcpclient\main.c
+	<stdlib.h>
+	<stdio.h>
+	<winsock2.h>
+	<WS2tcpip.h>
+	<string.h>
+
+1733767271 source:e:\tcp\tcpclient\main.c
+	<stdlib.h>
+	<stdio.h>
+	<winsock2.h>
+	<WS2tcpip.h>
+	<string.h>
+
+1733767271 source:e:\tcpclient\tcpclient\main.c
+	<stdlib.h>
+	<stdio.h>
+	<winsock2.h>
+	<WS2tcpip.h>
+	<string.h>
+
+1733767272 source:c:\users\user\downloads\project\project\tcpclient\main.c
+	<stdlib.h>
+	<stdio.h>
+	<winsock2.h>
+	<WS2tcpip.h>
+	<string.h>
+
